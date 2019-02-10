@@ -1,0 +1,14 @@
+c:\users\corujasdev\documents\visual studio 2017\Projects\Senai.TipoEvento.Wep.Api\Senai.TipoEvento.Wep.Api\bin\Debug\netcoreapp2.1\Senai.TipoEvento.Wep.Api.deps.json
+c:\users\corujasdev\documents\visual studio 2017\Projects\Senai.TipoEvento.Wep.Api\Senai.TipoEvento.Wep.Api\bin\Debug\netcoreapp2.1\Senai.TipoEvento.Wep.Api.runtimeconfig.json
+c:\users\corujasdev\documents\visual studio 2017\Projects\Senai.TipoEvento.Wep.Api\Senai.TipoEvento.Wep.Api\bin\Debug\netcoreapp2.1\Senai.TipoEvento.Wep.Api.runtimeconfig.dev.json
+c:\users\corujasdev\documents\visual studio 2017\Projects\Senai.TipoEvento.Wep.Api\Senai.TipoEvento.Wep.Api\bin\Debug\netcoreapp2.1\Senai.TipoEvento.Wep.Api.dll
+c:\users\corujasdev\documents\visual studio 2017\Projects\Senai.TipoEvento.Wep.Api\Senai.TipoEvento.Wep.Api\obj\Debug\netcoreapp2.1\Senai.TipoEvento.Wep.Api.csprojAssemblyReference.cache
+c:\users\corujasdev\documents\visual studio 2017\Projects\Senai.TipoEvento.Wep.Api\Senai.TipoEvento.Wep.Api\obj\Debug\netcoreapp2.1\Senai.TipoEvento.Wep.Api.csproj.CoreCompileInputs.cache
+c:\users\corujasdev\documents\visual studio 2017\Projects\Senai.TipoEvento.Wep.Api\Senai.TipoEvento.Wep.Api\obj\Debug\netcoreapp2.1\Senai.TipoEvento.Wep.Api.RazorAssemblyInfo.cache
+c:\users\corujasdev\documents\visual studio 2017\Projects\Senai.TipoEvento.Wep.Api\Senai.TipoEvento.Wep.Api\obj\Debug\netcoreapp2.1\Senai.TipoEvento.Wep.Api.RazorAssemblyInfo.cs
+c:\users\corujasdev\documents\visual studio 2017\Projects\Senai.TipoEvento.Wep.Api\Senai.TipoEvento.Wep.Api\obj\Debug\netcoreapp2.1\Senai.TipoEvento.Wep.Api.AssemblyInfoInputs.cache
+c:\users\corujasdev\documents\visual studio 2017\Projects\Senai.TipoEvento.Wep.Api\Senai.TipoEvento.Wep.Api\obj\Debug\netcoreapp2.1\Senai.TipoEvento.Wep.Api.AssemblyInfo.cs
+c:\users\corujasdev\documents\visual studio 2017\Projects\Senai.TipoEvento.Wep.Api\Senai.TipoEvento.Wep.Api\obj\Debug\netcoreapp2.1\Senai.TipoEvento.Wep.Api.RazorTargetAssemblyInfo.cache
+c:\users\corujasdev\documents\visual studio 2017\Projects\Senai.TipoEvento.Wep.Api\Senai.TipoEvento.Wep.Api\bin\Debug\netcoreapp2.1\Senai.TipoEvento.Wep.Api.pdb
+c:\users\corujasdev\documents\visual studio 2017\Projects\Senai.TipoEvento.Wep.Api\Senai.TipoEvento.Wep.Api\obj\Debug\netcoreapp2.1\Senai.TipoEvento.Wep.Api.dll
+c:\users\corujasdev\documents\visual studio 2017\Projects\Senai.TipoEvento.Wep.Api\Senai.TipoEvento.Wep.Api\obj\Debug\netcoreapp2.1\Senai.TipoEvento.Wep.Api.pdb
